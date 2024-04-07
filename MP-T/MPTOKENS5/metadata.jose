@@ -1,0 +1,16 @@
+{
+  "name": "IC-5",
+  "description": "machinery  in NFT.",
+  "image": "https://raw.githubusercontent.com/adityakumar29032003/MechTokens/mainMP-T/MPTOKENS5
+/T5.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "IC-5"
+    },
+    {
+      "trait_type": "Mint Date",
+      "value": "07-04-2024"
+    }
+  ]
+}
